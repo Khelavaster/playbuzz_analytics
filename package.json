@@ -1,0 +1,28 @@
+{
+  "name": "playbuzz-analytics",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "guid": "0.0.12",
+    "ip": "^1.1.5",
+    "ip-address": "^5.8.8",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "morgan": "~1.8.1",
+    "node-mysql": "^0.4.2",
+    "request": "^2.81.0",
+    "response-time": "^2.3.2",
+    "user-agent-parser": "^0.6.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
